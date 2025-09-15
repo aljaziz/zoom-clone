@@ -3,7 +3,7 @@ import Image from "next/image";
 import React from "react";
 
 interface HomeCardProps {
-    className: String;
+    className: string;
     img: string;
     title: string;
     description: string;
